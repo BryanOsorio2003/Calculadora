@@ -12,3 +12,9 @@ if opcion == 1 :
     Numero2= int(input("ingrese NUmero2 : "))
     resultado=Numero1+Numero2
     print(resultado)
+    
+if opcion==2 :
+    Numero1= int(input("ingrese Numero1 : "))
+    Numero2= int(input("ingrese NUmero2 : "))
+    resultado=Numero1-Numero2
+    print(resultado)
